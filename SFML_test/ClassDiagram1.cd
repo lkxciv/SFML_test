@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PlayerChar">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyChar">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEABAAAAAAAAAAAAACgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameWindow">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAgAAAAAAAAAAAAAAAAAAAAIIAAACACAAFAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shot" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAgAAAAIAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAEAAAAAAAAAAAAQAAAABCAAAACAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameContext">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAEAAAAAQAADAACAAACAAAAEAAFAAACEABAAAA=</HashCode>
+      <FileName>Main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
